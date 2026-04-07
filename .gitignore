@@ -21,4 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-replay_pid*
+
+# Others
+testoutput/
+target/
+src/main/resources/test/goals_paper.jpg
+src/main/java/com/ty/ai/cv/face/
+src/main/resources/test/test3*
+src/main/resources/test/test4*
+src/main/resources/test/test5*
+src/main/resources/test/test6*
+/*.jpg
+/*.mp4
+/*.dat
